@@ -1,0 +1,8 @@
+spring:
+
+  #database config
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root
+    url: jdbc:mysql://vsaini1m/hanu?&serverTimezone=UTC&createDatabaseIfNotExist=true
+    username: root
